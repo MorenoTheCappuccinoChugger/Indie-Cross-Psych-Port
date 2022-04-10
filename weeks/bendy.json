@@ -1,0 +1,41 @@
+{
+	"storyName": "Devilish Demon",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Imminent",
+			"bendy",
+			[
+				40,
+				40,
+				40
+			]
+		],
+		[
+			"Terrible-Sin",
+			"Bendy",
+			[
+				20,
+				20,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Devilish Demon",
+	"hiddenUntilUnlocked": false
+}
