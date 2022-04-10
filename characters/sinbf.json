@@ -1,0 +1,151 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				17
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "L-Miss instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				-22
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				-10
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "D-Miss instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				37
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				80
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "U-Miss instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				14
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "R-Miss instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				110
+			],
+			"anim": "Ouch",
+			"fps": 24,
+			"name": "Ouch instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE LEFT instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				22,
+				-3
+			],
+			"indices": [
+				10015,
+				10016,
+				10017,
+				10019,
+				10020,
+				10021
+			],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "BF NOTE LEFT instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BoyFriend_BendyShade",
+	"position": [
+		0,
+		390
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

@@ -1,0 +1,198 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF annoyed instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE LEFT copy instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT copy instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-29,
+				0
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "BF NOTE RIGHT copy instance",
+			"indices": [
+				10010,
+				10011,
+				10012
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				36
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP copy instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-33,
+				36
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "BF NOTE UP copy instance",
+			"indices": [
+				10009,
+				10010,
+				10011,
+				10012
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-21
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN copy instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-20,
+				-20
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "BF NOTE DOWN copy instance",
+			"indices": [
+				10011,
+				10012,
+				10013,
+				10014
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				16
+			],
+			"anim": "singLEFT-miss",
+			"fps": 24,
+			"name": "L-Miss instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				14
+			],
+			"anim": "singRIGHT-miss",
+			"fps": 24,
+			"name": "R-Miss instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-16
+			],
+			"anim": "singDOWN-miss",
+			"fps": 24,
+			"name": "D-Miss instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				74
+			],
+			"anim": "singUP-miss",
+			"fps": 24,
+			"name": "U-Miss instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				16,
+				-5
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				10011,
+				10012
+			],
+			"name": "BF NOTE LEFT copy instance"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT-hold",
+			"fps": 24,
+			"name": "BF NOTE RIGHT copy instance",
+			"indices": [
+				10010,
+				10011,
+				10012
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf_bendy",
+	"position": [
+		90,
+		450
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
